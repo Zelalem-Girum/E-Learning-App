@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 18,
+  "dart.customDevTools": {
+  "dart.offline": true,
+  "flutter.offline": true
+  }
+}
