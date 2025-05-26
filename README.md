@@ -1,2 +1,9 @@
 # E-Learning-App
- Thius is our mobile app assignment
+
+Group 6
+Members ID
+Abrham Temesgen.............................145291
+Zelalem Girum...............................147633
+Huda Mohammed...............................148731
+Aklilu Sisay..................................149116
+Ruhama Zinabu.................................148781
